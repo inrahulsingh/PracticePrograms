@@ -1,0 +1,7 @@
+Define a function called myfunc that takes in an arbitrary number of arguments and returns a list containing only those arguments that are even.
+like:
+myfunc(5,6,7,8)
+output - [6,8]
+
+Skyline:
+Define a function called myfunc that takes in a string, and returns a matching string where every even letter is uppercase and evert odd letter is lowercase. Assume that the incoming string only contains letters, and dont worry about numbers, spaces or punctuation. The output string can start with either an uppercase or lowercase letter, so long as letters alternative throughout the string.
